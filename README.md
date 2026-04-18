@@ -43,4 +43,4 @@ Data Modeling | DAX | Business Analytics | Dashboard Design | Data Storytelling
 ![Regional Analysis] (https://github.com/ayushjunghare-data/powerbi-sales-analytics-dashboard/blob/main/Map.png)
 ![Product Analysis]. (https://github.com/ayushjunghare-data/powerbi-sales-analytics-dashboard/blob/main/Product%20Analysis.png)
 ![Customer Analysis].(https://github.com/ayushjunghare-data/powerbi-sales-analytics-dashboard/blob/main/Customer%20Analysis.png)
-![Data Model] (http://github.com/ayushjunghare-data/powerbi-sales-analytics-dashboard/blob/main/Data%20Model.png)) 
+![Data Model]. (http://github.com/ayushjunghare-data/powerbi-sales-analytics-dashboard/blob/main/Data%20Model.png)
