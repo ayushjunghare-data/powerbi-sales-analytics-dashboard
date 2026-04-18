@@ -1,2 +1,2 @@
-# powerbi-sales-analytics-dashboard
+# Powerbi-sales-analytics-dashboard
 End-to-End Power BI Dashboard using Star Schema &amp; Advanced DAX
