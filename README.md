@@ -105,5 +105,6 @@ The dashboard enables stakeholders to track KPIs and uncover business insights i
 ## 🤝 Let's Connect
 If you found this project interesting or would like to collaborate:
 
-🔗 LinkedIn: linkedin.com/in/ayush-junghare-52458527a 
+🔗 LinkedIn: linkedin.com/in/ayush-junghare-52458527a
+
 💼 Open to Data Analyst opportunities
