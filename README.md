@@ -81,7 +81,7 @@ The dashboard enables stakeholders to track KPIs and uncover business insights i
 
 ---
 
-## Dashboard Preview
+## 🖼️ Dashboard Preview
 ![Executive Dashboard].(https://github.com/ayushjunghare-data/powerbi-sales-analytics-dashboard/blob/main/Executive%20Dashboard.png)
 
 ![Regional Analysis]. (https://github.com/ayushjunghare-data/powerbi-sales-analytics-dashboard/blob/main/Map.png)
